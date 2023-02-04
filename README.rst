@@ -15,7 +15,7 @@ Installation
     <script src="jquery.js"></script>
     <script src="main.js"></script>
 
-
+::
 
 Usage
 -----------------
@@ -28,7 +28,7 @@ Usage
             </form>
             <button id="id_click" class="class_click">Button</button>
 
-
+::
 `ajax='True` To enable or disable Ajax‍‍
 `ajax_url` Ajax posting address‍‍ Like `ajax_url="google.com"`
 `ajax_response` Element for receiving the ajax response like `ajax_response='.class'`, `ajax_response='#id'`, **with attribute** `ajax_response="[name='test']"`, **with Tages** `ajax_response="div"`
