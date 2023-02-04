@@ -11,7 +11,7 @@ Installation
 ---------------
 **Use the head tag**
 
-.. code-block:: javascript
+.. code-block:: HTML
     <script src="jquery.js"></script>
     <script src="main.js"></script>
 
@@ -21,7 +21,7 @@ Usage
 -----------------
 **Paste the following code into the attributes of the html tags**
 
-.. code-block:: javascript
+.. code-block:: HTML
             <div ajax='True' ajax_url="url send" ajax_response="#div" ajax_type="POST" ajax_data="{'data_first':'True'}" id="div"  if_click='#id_click' file_element="#file_id"></div>
             <form id="myformelement" class="myformelement">
                 <input type="file" name="test" id="file_id">
