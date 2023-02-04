@@ -20,11 +20,13 @@ Usage
 **Paste the following code into the attributes of the html tags**
 
 ```html
-            <div ajax='True' ajax_url="url send" ajax_response="#div" ajax_type="POST" ajax_data="{'data_first':'True'}" id="div"  if_click='#id_click' file_element="#file_id"></div>
-            <form id="myformelement" class="myformelement">
-                <input type="file" name="test" id="file_id">
-            </form>
-            <button id="id_click" class="class_click">Button</button>
+    <div ajax='True' ajax_url="url send" ajax_response="#div" 
+            ajax_type="POST" ajax_data="{'data_first':'True'}"
+            id="div"  if_click='#id_click' file_element="#file_id"></div>
+    <form id="myformelement" class="myformelement">
+        <input type="file" name="test" id="file_id">
+    </form>
+    <button id="id_click" class="class_click">Button</button>
 ```
 
 `ajax='True` To enable or disable Ajax‍‍
@@ -45,5 +47,5 @@ Authors
 --------
 Author [Mohammad Hasan Anisi](mohammadhasananisiqom@gmail.com)
 
-Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__!
+Please report bugs and suggestions at the [Telegram](https://t.me/mohammadhasananisi)!
 
