@@ -10,10 +10,11 @@ You can see example of usage in `this file <https://github.com/mohammadhasananis
 Installation
 ---------------
 **Use the head tag**
+
 .. raw:: html
     <script src="jquery.js"></script>
     <script src="main.js"></script>
-::
+
 
 
 Usage
@@ -26,7 +27,7 @@ Usage
                 <input type="file" name="test" id="file_id">
             </form>
             <button id="id_click" class="class_click">Button</button>
-::
+
 
 `ajax='True` To enable or disable Ajax‍‍
 `ajax_url` Ajax posting address‍‍ Like `ajax_url="google.com"`
