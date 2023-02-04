@@ -1,18 +1,33 @@
-# easy-use-ajax
- You can use ajax more easily on your site
-# installation
-** Use the head tag**
-    `<script src="jquery.js"></script>`
-    `<script src="main.js"></script>`
-# document
+easy use ajax
+==================
+**You can use ajax more easily on your site**
+
+Example
+-----------
+You can see example of usage in `this file <https://github.com/mohammadhasananisi/easy-use-ajax/blob/master/example.html>`
+
+
+Installation
+---------------
+**Use the head tag**
+.. code:: html
+    <script src="jquery.js"></script>
+    <script src="main.js"></script>
+::
+
+
+Usage
+-----------------
 **Paste the following code into the attributes of the html tags**
-<pre>
+
+.. code:: html
     <div ajax='True' ajax_url="url send" ajax_response="#div" ajax_type="POST" ajax_data="{'data_first':'True'}" id="div"  if_click='#id_click' file_element="#file_id"></div>
     <form id="myformelement" class="myformelement">
         <input type="file" name="test" id="file_id">
     </form>
     <button id="id_click" class="class_click">Button</button>
-</pre>
+::
+
 `ajax='True` To enable or disable Ajax‍‍
 `ajax_url` Ajax posting address‍‍ Like `ajax_url="google.com"`
 `ajax_response` Element for receiving the ajax response like `ajax_response='.class'`, `ajax_response='#id'`, **with attribute** `ajax_response="[name='test']"`, **with Tages** `ajax_response="div"`
@@ -25,5 +40,15 @@
 **The Ajax point is to submit a form with the FormData command in JavaScript**
 **You can use this Ajax in all HTML code attributes**
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**If you encounter a problem or error, you can fix your problem with <a href="https://t.me/cleverboyqom">this address</a>**
+
+Authors
+-------
+
+::
+
+    Author <mohammadhasananisiqom@gmail.com> (Mohammad Hasan Anisi)
+
+Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__!
+
