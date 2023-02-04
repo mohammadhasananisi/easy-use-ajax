@@ -45,7 +45,7 @@ Usage
 
 Authors
 --------
-Author [Mohammad Hasan Anisi](mohammadhasananisiqom@gmail.com)
+Author [Mohammad Hasan Anisi](mailto:mohammadhasananisiqom@gmail.com)
 
 Please report bugs and suggestions at the [Telegram](https://t.me/mohammadhasananisi)!
 
