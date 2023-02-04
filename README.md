@@ -43,9 +43,10 @@ Usage
 
 
 
+
 Authors
---------
-Author [Mohammad Hasan Anisi](mailto:mohammadhasananisiqom@gmail.com)
+-------
+
+Keep In Touch with Mohammad Hasan Anisi [Email](mailto:mohammadhasananisiqom@gmail.com) - [github](https://github.com/mohammadhasananisi)- [Telegram](https://t.me/mohammadhasananisi) - [Linkedin](https://linkedin.com/in/mohammadhasan-anisi-159757202).
 
 Please report bugs and suggestions at the [Telegram](https://t.me/mohammadhasananisi)!
-
