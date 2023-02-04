@@ -4,14 +4,14 @@ easy use ajax
 
 Example
 -----------
-You can see example of usage in `this file <https://github.com/mohammadhasananisi/easy-use-ajax/blob/master/example.html>`__.
+You can see example of usage in [this file](https://github.com/mohammadhasananisi/easy-use-ajax/blob/master/example.html).
 
 
 Installation
 ---------------
 **Use the head tag**
 
-```
+```html
     <script src="jquery.js"></script>
     <script src="main.js"></script>
 ```
