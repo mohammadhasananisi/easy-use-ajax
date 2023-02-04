@@ -11,24 +11,22 @@ Installation
 ---------------
 **Use the head tag**
 
-.. code-block:: HTML
+```
     <script src="jquery.js"></script>
     <script src="main.js"></script>
-
-::
-
+```
 Usage
 -----------------
 **Paste the following code into the attributes of the html tags**
 
-.. code-block:: HTML
+```
             <div ajax='True' ajax_url="url send" ajax_response="#div" ajax_type="POST" ajax_data="{'data_first':'True'}" id="div"  if_click='#id_click' file_element="#file_id"></div>
             <form id="myformelement" class="myformelement">
                 <input type="file" name="test" id="file_id">
             </form>
             <button id="id_click" class="class_click">Button</button>
+```
 
-::
 `ajax='True` To enable or disable Ajax‍‍
 `ajax_url` Ajax posting address‍‍ Like `ajax_url="google.com"`
 `ajax_response` Element for receiving the ajax response like `ajax_response='.class'`, `ajax_response='#id'`, **with attribute** `ajax_response="[name='test']"`, **with Tages** `ajax_response="div"`
