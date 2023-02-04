@@ -19,7 +19,7 @@ Usage
 -----------------
 **Paste the following code into the attributes of the html tags**
 
-```
+```html
             <div ajax='True' ajax_url="url send" ajax_response="#div" ajax_type="POST" ajax_data="{'data_first':'True'}" id="div"  if_click='#id_click' file_element="#file_id"></div>
             <form id="myformelement" class="myformelement">
                 <input type="file" name="test" id="file_id">
@@ -39,15 +39,11 @@ Usage
 **The Ajax point is to submit a form with the FormData command in JavaScript**
 **You can use this Ajax in all HTML code attributes**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Authors
--------
-
-::
-
-    Author <mohammadhasananisiqom@gmail.com> (Mohammad Hasan Anisi)
+--------
+Author [Mohammad Hasan Anisi](mohammadhasananisiqom@gmail.com)
 
 Please report bugs and suggestions at the `Telegram <https://t.me/mohammadhasananisi>`__!
 
